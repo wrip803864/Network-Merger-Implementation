@@ -8,3 +8,6 @@ This project details the security merger of Company A and Company B, migrating s
 * Cloud Migration: Transitions Exchange, File, and SharePoint servers to Azure to improve resource management and shrink the physical attack surface.
 * New Hardware: Replaces outdated Cisco 7600 routers and 3750X switches with modern Cisco Catalyst C8200L routers and 9200 series switches.
 * Endpoint Security: Upgrades all legacy workstations (Windows XP/7/10) to Windows 11 to ensure continued security patching and compliance.
+# Risk Management
+* Regulatory Compliance: Ensures the network topology meets GDPR and PCI DSS standards for protecting personally identifiable information and cardholder data.
+* Threat Mitigation: Provides a framework to manage insider threats through employee training and addresses patch management to eliminate legacy system vulnerabilities.
